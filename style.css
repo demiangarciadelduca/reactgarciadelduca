@@ -1,0 +1,15 @@
+/* archivo css para utlizar en CartWidget.css */
+.cart-widget {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+  }
+  
+  .badge {
+    background-color: blue;
+    color: white;
+    border-radius: 50%;
+    padding: 0.3rem 0.5rem;
+    margin-left: 0.2rem;
+  }
+  
